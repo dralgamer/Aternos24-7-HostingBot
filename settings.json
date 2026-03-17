@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Dralgamer.aternos.me:19403",
+    "ip": "Dralgamer.aternos.me",
     "port": 19403,
     "version": "",
     "try-creative": false
